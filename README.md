@@ -6,4 +6,8 @@ In this project, I applied Deep Convolutional GANs (DCGAN) to generate new human
 
 ![CelebA example](./assets/imgsize32.png)
 
+> CelebA examples
+
 ![Training results](./assets/results.png)
+
+> Training results
